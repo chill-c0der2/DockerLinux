@@ -14,7 +14,7 @@
 ## Windows Install
 
 
-`Download the File Docker.bat`
+`Download the File DockerLinux.bat`
 
 
 `Install Docker`
@@ -26,4 +26,4 @@
 `Restart Your Windows Machine`
 
 
-`Then Run Docker.bat in cmd only`
+`Then Run Docker.bat`
