@@ -31,7 +31,7 @@
 `Then Unzip DockerWin.zip`
 
 
-`Then Run DockerLinux.bat`s
+`Then Run DockerLinux.bat`
 
 
 
