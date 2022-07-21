@@ -7,7 +7,7 @@
 `cd DockerLinux`
 
 
-`sudo bash DockerHelp.sh`
+`sudo bash DockerLinux.sh`
 
 
 
