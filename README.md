@@ -23,7 +23,7 @@
 `Download it here https://docs.docker.com/desktop/install/windows-install/`
 
 
-`Restart Your Windows Machine
+`Restart Your Windows Machine`
 
 
 `Then Run Docker.bat in cmd only`
