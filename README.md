@@ -14,7 +14,7 @@
 ## Windows Install
 
 
-`Download the File DockerLinux.bat`
+`Download the File DockerWin.zip`
 
 
 `Install Docker`
@@ -27,4 +27,12 @@
 `Restart Your Windows Machine`
 
 
-`Then Run Docker.bat`
+
+`Then Unzip DockerWin.zip`
+
+
+`Then Run DockerLinux.bat
+
+
+
+
