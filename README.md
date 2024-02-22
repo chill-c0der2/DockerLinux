@@ -1,13 +1,17 @@
 ## Linux Install
 
 
-`git clone https://github.com/chill-c0der2/DockerLinux`
+`git clone https//github.com/chill-c0der2/DockerLinux`
 
 
 `cd DockerLinux`
 
 
+`sudo bash install.sh`
+
+
 `sudo bash DockerLinux.sh`
+
 
 
 
